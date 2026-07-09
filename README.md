@@ -1,7 +1,7 @@
 <h3 align="center">Hi, I'm Abdullah 👋</h3>
 
 <p align="center">
-Data analyst working with Python, SQL, and C — focused on data structures, A/B testing, and business analysis.
+Software engineering graduate with a passion for process improvement and systems design — full architecture with data mapping and flow.
 </p>
 
 - 🔭 Currently working on: sales & marketing analysis projects
