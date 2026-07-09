@@ -7,6 +7,7 @@ Software engineering graduate with a passion for process improvement and systems
 - 🔭 Currently working on: sales & marketing analysis projects
 - 🌱 Learning: process improvement and experiment analysis
 - 🌐 Check out my portfolio: [aalrefai7.github.io/portfolio](https://aalrefai7.github.io/portfolio/)
+- 📫 Reach me: fill out the contact form on my [portfolio/contact](https://aalrefai7.github.io/portfolio/#contact)
 
 <br>
 
