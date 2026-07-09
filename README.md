@@ -6,7 +6,13 @@ Data analyst working with Python, SQL, and C — focused on data structures, A/B
 
 - 🔭 Currently working on: sales & marketing analysis projects
 - 🌱 Learning: process improvement and experiment analysis
-- 📫 Reach me: add your email or LinkedIn here
+- 🌐 Check out my portfolio: [aalrefai7.github.io/portfolio](https://aalrefai7.github.io/portfolio/)
+
+<br>
+
+## 💬 Let's Chat
+
+I love system design, planning things out from scratch, and entrepreneurship. If you've got a real-world problem you're trying to solve, or just want to talk shop about building something — ping me, I'm always up for it.
 
 <br>
 
