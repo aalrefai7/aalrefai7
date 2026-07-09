@@ -1,14 +1,22 @@
-### Hi, I'm Abdullah 👋
+<h3 align="center">Hi, I'm Abdullah 👋</h3>
 
+<p align="center">
 Data analyst working with Python, SQL, and C — focused on data structures, A/B testing, and business analysis.
+</p>
 
 - 🔭 Currently working on: sales & marketing analysis projects
 - 🌱 Learning: process improvement and experiment analysis
 - 📫 Reach me: add your email or LinkedIn here
 
-**Tech stack:**
+<br>
 
-**Languages:**
+## 🛠️ Tech Stack
+
+<table width="100%">
+<tr>
+<td valign="top" width="20%"><b>Languages</b></td>
+<td>
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -26,7 +34,12 @@ Data analyst working with Python, SQL, and C — focused on data structures, A/B
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Data & Analysis**
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Data & Analysis</b></td>
+<td>
+
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -39,7 +52,12 @@ Data analyst working with Python, SQL, and C — focused on data structures, A/B
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
-**Web / Frameworks**
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Web / Frameworks</b></td>
+<td>
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -51,7 +69,12 @@ Data analyst working with Python, SQL, and C — focused on data structures, A/B
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Databases**
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Databases</b></td>
+<td>
+
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -60,7 +83,12 @@ Data analyst working with Python, SQL, and C — focused on data structures, A/B
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Cloud & DevOps**
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Cloud & DevOps</b></td>
+<td>
+
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -72,10 +100,19 @@ Data analyst working with Python, SQL, and C — focused on data structures, A/B
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-**Tools**
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Tools</b></td>
+<td>
+
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+
+</td>
+</tr>
+</table>
